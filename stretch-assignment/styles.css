@@ -21,16 +21,24 @@ body {
 
 .block--blue {
   background-color: blue;
+   display: flex;
+  order: 2;
 }
 
 .block--green {
   background-color: green;
+   display: flex;
+  order: 3;
 }
 
 .block--pink {
   background-color: pink;
+  display: flex;
+  order: 4;
 }
 
 .block--gray {
+  display: flex;
   background-color: gray;
+  order: 5;
 }
